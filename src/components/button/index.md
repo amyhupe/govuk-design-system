@@ -13,7 +13,7 @@ layout: layout-pane.njk
 
 ## When to use this component
 
-Use the button component to help users carry out an action like starting an application or saving their information.
+Use the button component to help users carry out an action like starting an application or saving their information. Hello - here's me in the button docs!
 
 ## How it works
 
